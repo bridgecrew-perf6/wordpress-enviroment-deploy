@@ -1,5 +1,5 @@
 FROM php:7.4-apache
-MAINTAINER Sebastian Amariles
+MAINTAINER Sebastian Amariles and Juan Jose Castro
 
 #
 # Install basic requirements
